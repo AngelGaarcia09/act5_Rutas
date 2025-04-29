@@ -1,7 +1,5 @@
 # Act5_Rutas
-![image](https://github.com/user-attachments/assets/4cd232fa-d5cb-4b3a-afc1-07f63fb1bbbe)
-![image](https://github.com/user-attachments/assets/671d62e0-7549-42d6-80b1-4781f53ba840)
-![image](https://github.com/user-attachments/assets/2ab7f42d-ae1a-4393-9bb4-8ba84d510273)
+![image](https://github.com/user-attachments/assets/c908c80e-6b3e-40ea-b437-8912de14375c)
 ![image](https://github.com/user-attachments/assets/0a5e6abd-979c-4a7b-8e63-a426102d0c6a)
 ![image](https://github.com/user-attachments/assets/0aa67cb2-982c-4d1b-97f0-3de093ad4d72)
 ![image](https://github.com/user-attachments/assets/855506d6-b25a-4c15-9924-68fce2adb6bd)
